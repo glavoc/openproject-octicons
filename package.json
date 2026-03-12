@@ -1,6 +1,6 @@
 {
-  "name": "@openproject/octicons",
-  "version": "19.27.0",
+  "name": "@glavoc/octicons",
+  "version": "1.0.6",
   "publishConfig": {
     "registry": "no registry, don't publish from this package.json."
   },
@@ -50,6 +50,5 @@
       "github/no-then": 0,
       "eslint-comments/no-use": 0
     }
-  },
-  "packageManager": "yarn@1.22.1"
+  }
 }
